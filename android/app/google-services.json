@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "297640754642",
+    "firebase_url": "https://todo-79a2c.firebaseio.com",
+    "project_id": "todo-79a2c",
+    "storage_bucket": "todo-79a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297640754642:android:f1a54d186d74012a",
+        "android_client_info": {
+          "package_name": "com.refactory.redux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297640754642-d707lgfec02tfuvpi9nk9p12mv0hpnc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.refactory.redux",
+            "certificate_hash": "0D7485BCAA2BEC870758E09DAE49C9732B2BA5B6"
+          }
+        },
+        {
+          "client_id": "297640754642-opocmgn7if7l7vskrhn3r3fa7jbvrt34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnszvi8Rs5T_mZJA774g0MQM0pC3mG4lQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297640754642-rrh0p6h4mv3bmv8676i4blb7clp2qs89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.refactory.redux"
+              }
+            },
+            {
+              "client_id": "297640754642-opocmgn7if7l7vskrhn3r3fa7jbvrt34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
